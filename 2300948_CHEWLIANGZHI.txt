@@ -1,1 +1,3 @@
-"Repo URL: https://github.com/liangzhi61/mylab2"
+"Favorite song: SHAPE OF YOU by Ed Sheeran" 
+"GitHub ID: liangzhi61" 
+"Repo URL: https://github.com/liangzhi61/mylab2" 
